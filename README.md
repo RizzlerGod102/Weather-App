@@ -31,14 +31,16 @@ JavaScript – fetching API data and updating DOM
 
 OpenWeatherMap API – real-time weather data
 
-How to Download / Clone
+**How to Download**
 
-Go to your GitHub repository page.
+1. Go to the GitHub repository page.
 
-Click the green Code button at the top right.
+2. Click the green Code button at the top right.
 
-Click Download ZIP
+3. Click Download ZIP
 
-Extract the ZIP file to your computer
+4. Extract the ZIP file to your computer
+
+5. Open index.html in your browser to run the weather app.
 
 Open index.html in your browser
