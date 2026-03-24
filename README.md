@@ -2,8 +2,6 @@
 
 A simple, responsive web-based weather app that fetches real-time weather data for any city using the OpenWeatherMap API. Displays temperature, humidity, wind speed, and updates weather icons dynamically based on the current conditions.
 
----
-
 **Features ✨**
 
 🔍 Search for any city to get live weather data
